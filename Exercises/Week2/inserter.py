@@ -5,7 +5,7 @@
 
 def where(array, num):
 
-    return
+
 
 print(where([40, 60], 50)) # should return 1print(where([40, 60], 50)) # should return 1
 print(where([], 50)) # should return 0
